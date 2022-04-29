@@ -1,13 +1,13 @@
 const Profile = () => {
   return (
-    <>
+    <div>
       <div>
-        <p>Hello, World!</p>
+        <p className="text-2xl font-bold text-indigo-600">Hello, World!</p>
       </div>
       <div>
-        <p>Blá bla blá</p>
+        <p className="">lorem ipsum dolor sit amet, consectetur adip</p>
       </div>
-    </>
+    </div>
   );
 };
 
